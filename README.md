@@ -1,16 +1,15 @@
-## Hi there 👋
+# zitemcodes
 
-<!--
-**zitemcodes/zitemcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Websites, code and hardware projects built by **Zitem Edozie**, a young developer in Lagos, Nigeria.
 
-Here are some ideas to get you started:
+He works mostly in HTML, CSS and JavaScript, builds with micro:bit and LEGO robotics, and is currently learning Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's here
+
+Each repository is a project he built himself. Every one has a README in his own words: what it does, how he made it, what went wrong, and what he would change next time.
+
+The code is his, unedited — including the parts that aren't tidy yet.
+
+## About this account
+
+GitHub requires account holders to be 13 or over. Zitem is under 13, so this account is owned and maintained by his father, who reviews everything before it is published. The work is Zitem's own.
